@@ -31,7 +31,7 @@ body{
     height:50px;
     top: 0;
     position: fixed;
-    overflow: hidden;
+    overflow: inherit;
     text-align: center;
 }
 .header i{
